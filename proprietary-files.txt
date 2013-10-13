@@ -50,10 +50,9 @@ etc/firmware/rpm.mbn
 etc/firmware/sbl1.mbn
 etc/firmware/sbl2.mbn
 etc/firmware/ta.mbn
-etc/firmware/touch_module_id_0x36.img
-etc/firmware/touch_module_id_0x37.img
-etc/firmware/touch_module_id_0x41.img
-etc/firmware/touch_module_id_0x42.img
+etc/firmware/touch_module_id_0x3c.img
+etc/firmware/touch_module_id_0x3d.img
+etc/firmware/touch_module_id_0x3f.img
 etc/firmware/tzlibasb.b00
 etc/firmware/tzlibasb.b01
 etc/firmware/tzlibasb.b02
@@ -148,12 +147,11 @@ lib/libril-qc-qmi-1.so
 lib/libsensors_akm8963.so
 lib/libsys-utils.so
 lib/libta.so
+vendor/camera/APT00YP1.dat
 vendor/camera/KMO08BN0_IMX111.dat
-vendor/camera/LGI02BN0.dat
 vendor/camera/LGI02BN0_IMX132.dat
 vendor/camera/LGI08BN2_DW9714.dat
 vendor/camera/LGI08BN2_IMX111.dat
-vendor/camera/SEM02BN0.dat
 vendor/camera/SEM02BN0_IMX132.dat
 vendor/camera/SEM13BS0.dat
 vendor/camera/SEM13BS0_IMX135.dat
@@ -169,5 +167,6 @@ vendor/camera/SOI13BS2.dat
 vendor/camera/SOI13BS2_DW9735.dat
 vendor/camera/SOI13BS2_IMX135.dat
 vendor/camera/SOI13BS9.dat
+vendor/camera/STW00YP1.dat
 vendor/camera/flash.dat
 vendor/camera/product.dat
