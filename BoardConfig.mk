@@ -37,4 +37,4 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 2147483648
 
 #Recovery
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
-BOARD_HARDWARE_CLASS := device/sony/dogo/cmhw
+BOARD_HARDWARE_CLASS += device/sony/dogo/cmhw
