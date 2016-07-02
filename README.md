@@ -1,2 +1,2 @@
-android_device_sony_dogo
-========================
+Xperia ZR - CyanogenMod 13.0
+============================
